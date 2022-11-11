@@ -163,7 +163,7 @@ obds_chickweight <- ggplot(ChickWeight, aes(x=Time, y=weight, color=Diet))+
 - Load the `ggplot2::msleep` data set.
 
 ```{r}
-ggplot2::msleep
+ggplot2::msleep 
 
 ```
 
