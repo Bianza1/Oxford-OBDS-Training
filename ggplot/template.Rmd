@@ -164,7 +164,7 @@ obds_chickweight <- ggplot(ChickWeight, aes(x=Time, y=weight, color=Diet))+
 
 ```{r}
 ggplot2::msleep 
-
+ 
 ```
 
 - Draw a bar plot of number of observations (i.e., rows) for each taxonomic order
