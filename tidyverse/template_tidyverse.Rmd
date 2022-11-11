@@ -246,7 +246,7 @@ tibble_joined
 
 ```{r}
 iris_raw %>% 
-  group_by(species) %>% 
+  group_by(species) %>%
   summarise(sepal_length.mean = mean(sepal_length), 
             sepal_length.median = median(sepal_length),
             sepal_length.max = max(sepal_length),
