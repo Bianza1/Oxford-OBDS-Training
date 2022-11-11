@@ -240,7 +240,7 @@ tibble_joined
 
 ## Manipulate data
 
-### Exercise 1
+### Exercise 1 
 
 - Using `iris_raw`, for each species of iris, compute the following summary statistics for the `sepal_length`: mean, median, minimum, maximum.
 
